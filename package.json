@@ -1,5 +1,5 @@
 {
-  "name": "mason-borchard-proxy",
+  "name": "Google-Apps-Carousel-proxy",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FEC-Group-Link/mason-borchard-proxy.git"
+    "url": "git+https://github.com/SDC-Navi-Apps/Google-Apps--Carousel-Proxy.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/FEC-Group-Link/mason-borchard-proxy/issues"
+    "url": "https://github.com/SDC-Navi-Apps/Google-Apps--Carousel-Proxy/issues"
   },
-  "homepage": "https://github.com/FEC-Group-Link/mason-borchard-proxy#readme",
+  "homepage": "https://github.com/SDC-Navi-Apps/Google-Apps--Carousel-Proxy#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
