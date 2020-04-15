@@ -1,5 +1,5 @@
 {
-  "name": "Google-Apps-Carousel-proxy",
+  "name": "google-apps-carousel-proxy",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/SDC-Navi-Apps/Google-Apps--Carousel-Proxy.git"
   },
-  "author": "",
+  "author": "Jake Dunnicliff",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/SDC-Navi-Apps/Google-Apps--Carousel-Proxy/issues"
