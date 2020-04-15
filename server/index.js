@@ -1,9 +1,10 @@
+require('newrelic');
 const express = require('express');
 const port = 3000;
 const app = express();
 const path = require('path');
 
-app.use(express.static(path.join(__dirname, '/../public')));
+app.use('/:id', express.static(path.join(__dirname, '/../public')));
 // app.use(express.static(__dirname + '/../client'));
 
 app.listen(port, () => {
